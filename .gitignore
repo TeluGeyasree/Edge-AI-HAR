@@ -1,0 +1,11 @@
+﻿wisdm-dataset/
+data/windows.npz
+*.zip
+android_app/build/
+android_app/app/build/
+android_app/.gradle/
+android_app/.idea/
+android_app/local.properties
+*.apk
+__pycache__/
+.ipynb_checkpoints/

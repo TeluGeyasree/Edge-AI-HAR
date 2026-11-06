@@ -1,0 +1,4 @@
+Setup,Mean Accuracy,Std Accuracy,Mean Macro F1,Std Macro F1,Mean F1 Walking,Mean F1 Jogging,Mean F1 Stairs,Mean F1 Sitting,Mean F1 Standing
+Accel-only (3ch),0.7827,0.0528,0.7833,0.0499,0.6745,0.9153,0.6399,0.8443,0.8424
+Accel+Gyro (6ch),0.7833,0.03,0.7807,0.0305,0.6481,0.8892,0.7136,0.8334,0.819
+Accel+Gyro+Mag (8ch),0.7969,0.0335,0.7904,0.0415,0.6113,0.9066,0.7472,0.8428,0.8439

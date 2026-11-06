@@ -1,0 +1,7 @@
+Model,Quantization,File,Size (KB),Test Accuracy,Macro F1,Latency (ms)
+CNN-Accel,float32,cnn_accel_float32.tflite,48.2,0.8423,0.8422,0.013
+CNN-Accel,float16,cnn_accel_float16.tflite,27.2,0.8423,0.8422,0.013
+CNN-Accel,int8,cnn_accel_int8.tflite,20.3,0.8398,0.8388,0.009
+CNN-Both,float32,cnn_both_float32.tflite,50.1,0.8158,0.813,0.014
+CNN-Both,float16,cnn_both_float16.tflite,28.2,0.8158,0.8128,0.017
+CNN-Both,int8,cnn_both_int8.tflite,20.8,0.8167,0.814,0.018
